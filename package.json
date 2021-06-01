@@ -1,0 +1,22 @@
+{
+  "name": "placejet",
+  "version": "1.0.0",
+  "description": "Software to keep track of your devices, cables, mics and other products where they are located.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JHiltunen/PlaceJet.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Joonas Hiltunen",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/JHiltunen/PlaceJet/issues"
+  },
+  "homepage": "https://github.com/JHiltunen/PlaceJet#readme"
+}
